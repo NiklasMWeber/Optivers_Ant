@@ -1,3 +1,5 @@
+<h1>Optiver's Ant</h1>
+
 This repository contains a jupyter notebook about a brainteaser that was part of Optiver's recruiting process recently.
 
 **Problem**
