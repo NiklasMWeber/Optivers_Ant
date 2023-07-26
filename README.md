@@ -1,6 +1,7 @@
 This repository contains a jupyter notebook about a brainteaser that was part of Optiver's recruiting process recently.
 
-#Problem:
+**Problem:**
+
 An ant leaves its anthill in order to forage for food. It moves with the speed of 10cm per second, but it doesn't know where to go, therefore every second it moves randomly 10cm directly north, south, east or west with equal probability.
 
 a) If the food is located on east-west lines 20cm to the north and 20cm to the south, as well as on north-south lines 20cm to the east and 20cm to the west from the anthill, how long will it take the ant to reach it on average?
